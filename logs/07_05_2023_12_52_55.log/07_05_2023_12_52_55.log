@@ -1,0 +1,5 @@
+[2023-07-05 12:52:55,695] 157 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[2023-07-05 12:52:57,562] 26 root - INFO - Enterd the data injestion method or component
+[2023-07-05 12:52:57,570] 29 root - INFO - Read the dataset as DataFrame
+[2023-07-05 12:52:57,577] 36 root - INFO - Train Test Split Initiated
+[2023-07-05 12:52:57,584] 47 root - INFO - Data Injestion of the data is Completed
